@@ -1,5 +1,5 @@
 {
-  "homepage": "https://joseph-beck.github.io/lorenz-attractor/",
+  "homepage": "https://joseph-beck.github.io/lorenz-attractor)",
   "name": "lorenz-attractor",
   "private": true,
   "version": "0.0.0",
@@ -7,8 +7,8 @@
   "scripts": {
     "dev": "vite",
     "build": "vite build",
-    "predeploy" : "npm run build",
-    "deploy" : "gh-pages -d dist",  
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d dist",
     "preview": "vite preview"
   },
   "devDependencies": {
